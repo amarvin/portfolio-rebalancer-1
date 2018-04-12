@@ -12,14 +12,14 @@ Use the method `get_buys_and_sells` with a list of dicts representing the curren
     'share_price': 98,
     'target_allocation': 0.6,
     'ticker': 'GOOG',
-    shares_owned': 52,
-    'actal_allocation': 0.5096
+    'shares_owned': 52,
+    'actual_allocation': 0.5096
   }, {
     'share_price': 22,
     'target_allocation': 0.3,
     'ticker': 'AAPL',
     'shares_owned': 136,
-    'actal_allocation': 0.2992
+    'actual_allocation': 0.2992
   }, {
     'share_price': 8,
     'target_allocation': 0.1,
